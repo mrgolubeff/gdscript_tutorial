@@ -3,4 +3,5 @@ extends Node
 
 # Called when the node enters the scene tree for the first time.
 func _ready():
-	print("Hello, mrgolubeff!")
+	$Label.text = "Hello, mrgolubeff!"
+	$Label.modulate = Color.PURPLE
