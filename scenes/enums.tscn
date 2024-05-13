@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://cjoutxcl3lwdu"]
+
+[ext_resource type="Script" path="res://scenes/enums.gd" id="1_7so7e"]
+
+[node name="Enums" type="Node"]
+script = ExtResource("1_7so7e")
+unit_alignment = 3
