@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="GDScript Tutorial"
-run/main_scene="res://scenes/signals.tscn"
+run/main_scene="res://scenes/get_set.tscn"
 config/features=PackedStringArray("4.2", "Mobile")
 config/icon="res://icon.svg"
 

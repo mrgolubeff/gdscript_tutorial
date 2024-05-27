@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://uvmrr5mxhuwg"]
+
+[ext_resource type="Script" path="res://scenes/get_set.gd" id="1_dxqes"]
+
+[node name="GetSet" type="Node"]
+script = ExtResource("1_dxqes")
